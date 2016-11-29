@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/11/22 12:57:53。
+     1>项目“C:\Users\mtyb\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\software\vs2013fin\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         源.cpp
+     1>源.cpp(66): warning C4101: “item”: 未引用的局部变量
+     1>源.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(160): warning C4018: “<”: 有符号/无符号不匹配
+     1>源.cpp(204): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         C:\software\vs2013fin\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mtyb\documents\visual studio 2013\Projects\Project1\Release\Project1.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\mtyb\documents\visual studio 2013\Projects\Project1\Release\Project1.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mtyb\documents\visual studio 2013\Projects\Project1\Release\Project1.lib" /MACHINE:X86 /SAFESEH "Release\源.obj"
+         正在生成代码
+         已完成代码的生成
+         Project1.vcxproj -> C:\Users\mtyb\documents\visual studio 2013\Projects\Project1\Release\Project1.exe
+     1>已完成生成项目“C:\Users\mtyb\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.09
